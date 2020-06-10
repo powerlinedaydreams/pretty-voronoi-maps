@@ -1,0 +1,19 @@
+#svg {
+    width: 1280;
+    height: 720;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    outline-color: black;
+    outline-width: thin;
+    outline-style: solid;
+}
+
+#footer {
+    width: 100%;
+    height: 40px;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    position: absolute;
+}
