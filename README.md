@@ -1,2 +1,2 @@
 # pretty-voronoi-maps
-Map pretty and realistic-looking maps out of voronois
+Make pretty and realistic-looking maps out of voronois
